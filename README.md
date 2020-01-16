@@ -37,3 +37,7 @@ extract it from it (or maybe just a textual name) and use the `delete` operator`
 it from elsewhere stop working and prevent invalid operations. I'm unsure if it will be possible to bend `delete` in such a way.
 
 That's all I have for now.
+
+## To-Do
+
+### Prototype this
